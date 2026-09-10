@@ -1,4 +1,4 @@
-# 🛰️ Geospatial Intelligence Agent
+# 🛰️ GeoSpatial IntelAgent
 
 > AI + GIS pipeline for **satellite-based change detection, retrieval, and intelligent querying**.  
 > Built with **PyTorch, LangChain, FAISS, rasterio, and geopandas**.
